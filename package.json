@@ -1,11 +1,11 @@
 {
-  "name": "@mondough/progression-framework",
+  "name": "@volo-ai/progression-framework",
   "private": true,
   "version": "1.0.0",
-  "description": "Monzo's progression framework site",
-  "author": "Lucas Johnston <lucasjohnston@monzo.com>",
+  "description": "Upp's progression framework site",
+  "author": "Upp Engineering <engineering@upp.ai>",
   "engines": {
-    "node": "^14.15.0",
+    "node": "^14.17.0",
     "yarn": "^1.22.1"
   },
   "dependencies": {
@@ -73,7 +73,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monzo/progression-framework.git"
+    "url": "git+https://github.com/volo-ai/progression-framework.git"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0",
